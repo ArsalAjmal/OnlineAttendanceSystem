@@ -725,6 +725,10 @@ function AdminPanel({ onClose }) {
         )}
         </div>
       </div>
+
+      <div className="footer">
+        <p>Powered by Maham, Arsal and Hanzala</p>
+      </div>
     </div>
   );
 }

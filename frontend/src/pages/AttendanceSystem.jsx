@@ -294,7 +294,7 @@ function AttendanceSystem() {
       )}
 
       <div className="footer">
-        <p>Powered by Maham and Arsal</p>
+        <p>Powered by Maham, Arsal and Hanzala</p>
       </div>
     </div>
   );
